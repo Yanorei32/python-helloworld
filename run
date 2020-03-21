@@ -1,0 +1,7 @@
+docker run \
+	-it \
+	--rm \
+	--init \
+	--name python-helloworld \
+	python-helloworld
+
